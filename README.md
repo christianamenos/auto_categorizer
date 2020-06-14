@@ -1,4 +1,4 @@
-# Project Exodiux
+# Auto categorizer
 
 ## Summary of the idea
 The idea is to build a model that is able to discern if a post in a blog belongs
